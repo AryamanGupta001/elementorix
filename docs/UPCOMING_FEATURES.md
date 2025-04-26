@@ -1,0 +1,3 @@
+- [ ] Audio integration per element (hover/click event)
+- [ ] Element animations
+- [ ] User accounts for saved comparisons

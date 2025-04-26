@@ -1,0 +1,31 @@
+{
+  "name": "elementorix",
+  "version": "1.0.0",
+  "description": "A modern, interactive periodic table built with React and Tailwind CSS.",
+  "main": "postcss.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryamanGupta001/elementorix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AryamanGupta001/elementorix/issues"
+  },
+  "homepage": "https://github.com/AryamanGupta001/elementorix#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4"
+  }
+}

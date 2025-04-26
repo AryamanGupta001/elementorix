@@ -1,0 +1,37 @@
+[
+  {
+    "atomicNumber": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "atomicMass": 1.008,
+    "electronConfig": "1s1",
+    "phase": "Gas",
+    "group": 1,
+    "period": 1,
+    "category": "Nonmetal",
+    "meltingPoint": "13.99 K",
+    "boilingPoint": "20.271 K",
+    "density": "0.00008988 g/cm³",
+    "discoveredBy": "Henry Cavendish (1766)",
+    "discoveryYear": 1766,
+    "interestingFact": "Most abundant element in the universe."
+  },
+  {
+    "atomicNumber": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "atomicMass": 4.0026,
+    "electronConfig": "1s2",
+    "phase": "Gas",
+    "group": 18,
+    "period": 1,
+    "category": "Noble Gas",
+    "meltingPoint": "0.95 K",
+    "boilingPoint": "4.222 K",
+    "density": "0.0001786 g/cm³",
+    "discoveredBy": "Pierre Janssen (1868)",
+    "discoveryYear": 1868,
+    "interestingFact": "First detected in the solar spectrum."
+  }
+  
+]
